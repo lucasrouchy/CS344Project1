@@ -1,0 +1,1 @@
+curl https://$1 --output $2.html 
