@@ -1,0 +1,1 @@
+find $1 -type f -exec ls -a {} + | grep '[ieouay]$'
