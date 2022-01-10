@@ -1,0 +1,1 @@
+curl https://$1 | grep '<a ^[qwerty]> a>'
